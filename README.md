@@ -1,6 +1,6 @@
 # Habit Tracker
 > -description goes here-
-<!--- Live demo
+<!---
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -11,8 +11,8 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+* [Contact](#contact) -->
+ <!--- * [License](#license) -->
 
 
 <!---
