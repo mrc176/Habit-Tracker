@@ -1,11 +1,12 @@
 # Habit Tracker
-Our group is composed of Charlie Cox, Temi Kounoudji, Caitlyn Barrow, 
+> - Our group is composed of Charlie Cox, Temi Kounoudji, Caitlyn Barrow, 
 Martin Castaneda, and Bridgett Tijerina, and we are working to create an 
 app to help people track both good and bad habits so that individuals can
 use technology to improve their daily lives one good or bad habit at a time!
 Through promotion and encouragement of healthy habits while keeping track
 of poorer ones, we empower our users with an easy-to-use tool to facilitate
 a positive lifestyle.
+
 <!---
 ## Table of Contents
 * [General Info](#general-information)
