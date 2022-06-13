@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-<!--- Live demo --->
+# Habit Tracker
+> -description goes here-
+<!--- Live demo
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -15,6 +15,7 @@
 <!-- * [License](#license) -->
 
 
+<!---
 ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
@@ -22,7 +23,7 @@
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
+<!---
 ## Technologies Used
 - Tech 1 - version 1.0
 - Tech 2 - version 2.0
@@ -41,6 +42,7 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
+<!---
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
@@ -78,8 +80,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me! 
 
 <!-- Optional -->
 <!-- ## License -->
