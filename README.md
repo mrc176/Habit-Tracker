@@ -38,10 +38,8 @@ a positive lifestyle.
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Calendar which marks and tracks which days the user engaged in either an unfavorable or healthy habit.
+- Customizable habits, fit with a description and goal.
 
 
 ## Screenshots
