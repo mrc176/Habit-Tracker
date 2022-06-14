@@ -55,8 +55,9 @@ a positive lifestyle.
 ## Screenshots
 
 <!-- If you have screenshots you'd like to share, include them here. -->
-
+## Temporary App Icon 
 ![](https://i.imgur.com/vhFRLWw.png){height=50 width=60}
+<span style="font-size:5px;">*Forever a Legend*</span></p>
 
 
 
