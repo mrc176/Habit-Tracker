@@ -34,7 +34,7 @@ a positive lifestyle.
 ## Technologies Used -->
 <a href= "https://developers.google.com/calendar/api">Google Calendar API</a>
 
--->
+<!---
 ## Features
 - Calendar which marks and tracks which days the user engaged in either an unfavorable or healthy habit.
 - Customizable habits, fit with a description and goal.
