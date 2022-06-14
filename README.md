@@ -32,7 +32,7 @@ a positive lifestyle.
 
 <!---
 ## Technologies Used -->
-Inteding to use <a href= "https://developers.google.com/calendar/api">Google Calendar API</a> to help remind the user about their habit.
+Intending to use <a href= "https://developers.google.com/calendar/api">Google Calendar API</a> to help remind the user about their habit.
 
 <!---
 ## Features
