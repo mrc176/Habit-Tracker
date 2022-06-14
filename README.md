@@ -31,13 +31,15 @@ a positive lifestyle.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 <!---
-## Technologies Used -->
+-->
+## Technologies Used
 Intending to use <a href= "https://developers.google.com/calendar/api">Google Calendar API</a> to help remind the user about their habit.
 
-<!---
+<!--- -->
 ## Features
-- Calendar which marks and tracks which days the user engaged in either an unfavorable or healthy habit.
-- Customizable habits, fit with a description and goal.
+- Calendar which marks and tracks which days the user engaged in either an unfavorable or healthy habit.(User Story: Bridgett Tijerina)
+- Customizable habits, fit with a description and goal. (User Story: Caitlyn Barrow)
+
 
 <!---
 ## Screenshots
