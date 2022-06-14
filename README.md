@@ -31,8 +31,8 @@ a positive lifestyle.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 <!---
-## Technologies Used
-- https://developers.google.com/calendar/api
+## Technologies Used -->
+<a href= "https://developers.google.com/calendar/api">Google Calendar API</a>
 
 -->
 ## Features
