@@ -45,6 +45,7 @@ a positive lifestyle.
 ## Screenshots
 
 <!-- If you have screenshots you'd like to share, include them here. -->
+<img src="https://i.imgur.com/vhFRLWw.png">
 
 
 <!---
