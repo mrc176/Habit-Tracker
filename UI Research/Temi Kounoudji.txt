@@ -1,3 +1,5 @@
+##############################################################################################
+##############################################################################################
 Swing is a feature our group has varying amounts of familiarity with but have all used at one point or another.
 However, further knowledge and understanding of how to properly apply Swing in a larger scope is required to
 utilize it in the scope of our current project.
