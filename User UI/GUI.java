@@ -1,5 +1,6 @@
 // This is a base template for testing with SystemLog.java
 // To showcase UI initialization off of a successful login
+// This should eventually be replaced by the actual UserUI
 package guiBasicTest;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
