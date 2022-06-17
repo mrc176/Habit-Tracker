@@ -1,0 +1,29 @@
+//string to date:
+
+import java.text.SimpleDateFormat;
+import java.util.date;
+
+String strDate = "16-06-2022";
+SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
+
+Date date1 = format.parse(strDate);
+
+//When formatting, add E for day of the week, i.e. EEE = "Thu" vs. EEEEEEEE = "Thursday"
+//ex: SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy EEE");
+//to add hours, minutes, and seconds, use h and m, i.e. ("dd-MM-yyyy EEE hh:mm:ss")
+
+//The actual calendar class is an abstract class, so you have to instantiate it differently.
+
+Calendar calend = Calendar.getInstance();
+
+//months are stored similarly to an array, where January is 0 and December is 11.
+
+//There is also a gregorian calendar, which is a little easier to use imo.
+
+GregorianCalendar gregCal = new GregorianCalendar();
+
+//has data like
+
+gregCal.get(Calendar.YEAR);
+gregCal.get(Calendar.MONTH);
+gregCal.get(Calendar.DAY);
