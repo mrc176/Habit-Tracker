@@ -1,0 +1,32 @@
+##############################################################################################
+##############################################################################################
+Swing is a feature our group has varying amounts of familiarity with but have all used at one point or another.
+However, further knowledge and understanding of how to properly apply Swing in a larger scope is required to
+utilize it in the scope of our current project.
+
+The tools, guides, and etc. utilized for JavaSwing research were as follows:
+
+https://www.logicbig.com/tutorials/java-swing/jtable-as-editable-list.html
+https://www.youtube.com/watch?v=oeswfZz4IW0&ab_channel=ProgrammingKnowledge
+https://www.youtube.com/watch?v=-hpX9oEvoXc&ab_channel=DJOamen
+https://www.youtube.com/watch?v=-hpX9oEvoXc&ab_channel=DJOamen
+https://www.youtube.com/watch?v=iE8tZ0hn2Ws&ab_channel=AlexLee
+https://www.youtube.com/watch?v=mgw1sAvhjy8&ab_channel=JavaGuides
+https://www.javaguides.net/2019/07/java-swing-application-with-database-connection.html
+##############################################################################################
+##############################################################################################
+The use of Swing as UI with Java creates some limitations. To explore the full potential of our program, some time
+was spent researching the possibility and feasibility of implementing the UI of our project with JavaFX, through the
+use of tutorials and guides to build an understanding and familiarity the tool. Ultimately, given that the whole of
+the team (myself included) already have past experience with Swing and are operating with severe time constraints to
+which learning JavaFX from scratch for project use would be limiting, we have opted to fully utilize Java Swing for
+our tasks going forward.
+
+The tools, guides, and etc. utilized for JavaFX research were as follows:
+https://www.youtube.com/watch?v=mUbORGu-z6Q&ab_channel=PragmaticWays
+https://www.youtube.com/watch?v=bk28ytggz7E&ab_channel=JavaCodingCommunity-ProgrammingTutorials
+https://download.java.net/general/javafx/eclipse/tutorial.html
+https://gluonhq.com/products/javafx/
+##############################################################################################
+##############################################################################################
+To do: Research on Calendar API usage/integration will have to be researched at a later time.
