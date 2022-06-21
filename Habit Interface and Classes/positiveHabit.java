@@ -26,17 +26,23 @@ public class positiveHabit implements Habit{
 
     @Override
     public void setNumFailures(int numFails) {
-        throw new UnsupportedOperationException("Not supported yet.");
+        numFailures = numFails;
     }
 
     @Override
     public void setReminders(int numReminders) {
-        throw new UnsupportedOperationException("Not supported yet."); 
+        remindersPerDay = numReminders; 
+    }
+    
+    @Override
+    public int getReminders()
+    {
+        return remindersPerDay;
     }
 
     @Override
-    public void endHabit() {
-        throw new UnsupportedOperationException("Not supported yet.");
+    public String endHabit() {
+        return "This habit has been tracked!";
     }
 
     
