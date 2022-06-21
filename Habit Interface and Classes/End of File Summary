@@ -1,0 +1,16 @@
+// Author: Caitlyn Barrow
+// Skeleton of an end of file summary class, should eventually be replaced
+// with a more fleshed out code/alg.
+public class endOfFile {
+
+public String printNumDaysAbstained {
+//print days abstained -> from negative habit
+}
+
+public String printNumSuccesses {
+//print number of successes -> from positive habit
+}
+
+public String printNumDays {
+//print num days total -> from where?
+}
