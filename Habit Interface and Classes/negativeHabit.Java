@@ -1,37 +1,34 @@
+//Author: Charlie Cox
 
-public class positiveHabit implements Habit{
+public class NegativeHabit implements Habit {
     
+    int numFailures;
     String name;
-    int remindersPerDay = 0;
-    int dayCount = 0;
-    int numFailures = 0;
+    int remindersPerDay;
     
-    public positiveHabit(String habName, int numReminders, int numDays)
+    public NegativeHabit()
     {
-        setName(habName); 
-        int remindersPerDay = numReminders;
-        int dayCount = numDays;
-        int numFailures = 0;
+        numFailures = 0;
     }
 
     @Override
     public void incrementFailures() {
-        ++numFailures;
+        numFailures++;
     }
 
     @Override
     public void setName(String habName) {
-        name = habName; 
+        this.name = habName;
     }
 
     @Override
     public void setNumFailures(int numFails) {
-        numFailures = numFails;
+        numFailures = numFails;    
     }
 
     @Override
     public void setReminders(int numReminders) {
-        remindersPerDay = numReminders; 
+       remindersPerDay = 0;    
     }
     
     @Override
@@ -44,7 +41,6 @@ public class positiveHabit implements Habit{
     public String endHabit() {
         return "This habit has been tracked!";
     }
-
     
     
 }
