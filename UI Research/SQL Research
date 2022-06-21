@@ -1,0 +1,14 @@
+Unlike Swing, SQL was a tool that I was completely unfamiliar with upon starting our work on the program.
+Research was required in order to understand what exactly an SQL Server was, how to set up and host a local
+SQL server, create a database of users/passwords inside of it, and have it be utilized through Java.
+
+The tools, guides, and etc. utilized for SQL research were as follows:
+
+https://www.youtube.com/watch?v=6K9OpqDM_RM&ab_channel=KnowledgetoShare
+https://www.youtube.com/watch?v=mgw1sAvhjy8&ab_channel=JavaGuides
+https://www.w3schools.com/sql/
+https://www.youtube.com/watch?v=6PvKTg9NXkU&ab_channel=DJOamen
+https://phoenixnap.com/kb/how-to-reset-mysql-root-password-windows-linux
+##############################################################################################
+##############################################################################################
+To do: Research on Calendar API usage/integration will have to be researched at a later time.
