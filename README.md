@@ -108,10 +108,21 @@ Bridgett-
 
 ## What Went Well
 
-We did a good job of meeting together and deciding what we would work on. Communication
+Team- We chose to write code from scratch rather than pulling from GitHub and have made good progress so far.<br>
+We were able to separate who would do what in the project very early on.<br>
+Everyone is able to communicate effectively through our team Discord or Slack.<br>
+On several occasions everyone went an extra mile to stay on talking for a long time after the official class end period to finalize decisions on time-sensitive issues.<br>
+
+Charlie- We did a good job of meeting together and deciding what we would work on. Communication
 was very consistent.
 
 Temi- Nobody's attitudes clashed with the overall group.
+
+Martin- 
+
+Caitlyn- 
+
+Bridgett-
 
 ## What Could Be Improved
 
