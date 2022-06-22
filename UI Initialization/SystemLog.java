@@ -2,7 +2,7 @@
 //This code does not represent the final version, as SQL research and integration is necessary
 //to fully implement the user database with a legitimate log-in function
 
-package systemLogin;
+//package systemLogin;
 
 import java.awt.EventQueue;
 
@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-import guiBasicTest.GUI;
+//import guiBasicTest.GUI;
 
 import javax.swing.JPasswordField;
 import java.awt.Font;
