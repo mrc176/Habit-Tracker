@@ -61,8 +61,30 @@ a positive lifestyle.
 
 
 
+##Group Plans
 
-<!---
+##What We Did
+Charlie- Created the backend for the habits including classes and interfaces. Also researched Java Swing and Calendar API's.
+Temi-
+Martin-
+Caitlyn-
+Bridgett-
+
+##Next Steps
+Charlie- Charlie will be working with Martin on making sure the backend and habit UI work together properly and with Temi to work on a calendar.
+Temi-
+Martin-
+Caitlyn-
+Bridgett-
+
+##What Went Well
+We did a good job of meeting together and deciding what we would work on. Communication
+was very consistent.
+
+##What Could Be Improved
+We missed the mark on some of our deadlines and would like to have done more in the first sprint.
+
+<!--
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
