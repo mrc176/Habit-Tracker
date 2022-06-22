@@ -85,7 +85,11 @@ Martin-
 Caitlyn-
 
 
-Bridgett-
+Bridgett- Draft for a User Profile screen and research for Java User Interfaces using Java Swing and Window Builder.
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-33">HTP-33</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-34">HTP-34</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-35">HTP-35</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-36">HTP-36</a>
 
 ## Next Steps
 
@@ -104,7 +108,8 @@ Martin-
 Caitlyn-
 
 
-Bridgett-
+Bridgett- Create a working and fleshed out User Profile screen.
+          Integrating my code with Temi's code.
 
 ## What Went Well
 
@@ -122,7 +127,7 @@ Martin-
 
 Caitlyn- 
 
-Bridgett-
+Bridgett- The team communicated what problems each member had and working together to fix problems.
 
 ## What Could Be Improved
 
@@ -138,7 +143,7 @@ Martin-
 
 Caitlyn- 
 
-Bridgett
+Bridgett- Dedicating time to work on assignments and communicate better with the team.
 
 <!--
 ## Setup
