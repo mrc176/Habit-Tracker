@@ -128,7 +128,7 @@ Bridgett-
 
 We missed the mark on some of our deadlines and would like to have done more in the first sprint.
 
-## What Could Be Improved
+## What Can I Do To Improve?
 Charlie- 
 
 Temi- Me focusing and being more creative on the tools we are already using rather than pushing for tools we as a group are unfamiliar with (like SQL and the initial idea of JavaFX), which slows us down.<br>
