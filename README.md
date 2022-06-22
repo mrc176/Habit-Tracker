@@ -83,7 +83,7 @@ Martin-
 
 
 Caitlyn-  
-<a href= https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary>Created app Icon, laid out some skeleton code.
+<a href= https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary>Created app Icon, laid out some skeleton code.</a>
 
 Bridgett- Draft for a User Profile screen and research for Java User Interfaces using Java Swing and Window Builder.
 
