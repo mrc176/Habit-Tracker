@@ -66,9 +66,9 @@ a positive lifestyle.
 ## What We Did
 Charlie- Created the backend for the habits including classes and interfaces. Also researched Java Swing and Calendar API's.
 
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-21">HTP-21</a>
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-23">HTP-23</a>
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-24">HTP-24</a>
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-21">HTP-21</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-23">HTP-23</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-24">HTP-24</a> /
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-22">HTP-22</a>
 
 Temi-
