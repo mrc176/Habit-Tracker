@@ -82,8 +82,8 @@ Temi- GUI for user login and initialization of main panel GUI upon successful lo
 Martin-
 
 
-Caitlyn-
-
+Caitlyn- Created app Icon, laid out some skeleton code. 
+<a href= https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary </a> /
 
 Bridgett- Draft for a User Profile screen and research for Java User Interfaces using Java Swing and Window Builder.
 
@@ -109,8 +109,7 @@ Temi- Finish building SQL database (space for habits to be added in by back-end,
 Martin-
 
 
-Caitlyn-
-
+Caitlyn- Flesh out some skeleton code established during sprint 1. Elaborate on UI integration as well as some bug fixes. 
 
 Bridgett- Create a working and fleshed out User Profile screen.
           Integrating my code with Temi's code.
@@ -129,7 +128,8 @@ Temi- Nobody's attitudes clashed with the overall group.
 
 Martin- 
 
-Caitlyn- 
+Caitlyn- Really great team, everyone was very good at communicating and spreading out the work. Everyone was super receptive to everyone elses ideas as well. 
+
 
 Bridgett- The team communicated what problems each member had and working together to fix problems.
 
@@ -146,7 +146,7 @@ Temi- Me focusing and being more creative on the tools we are already using rath
 
 Martin- 
 
-Caitlyn- 
+Caitlyn- Better time managment for me, organizing my time better and spreading out my work. I woud like to contribute more this time around to the overall project.
 
 Bridgett- Dedicating time to work on assignments and communicate better with the team.
 
