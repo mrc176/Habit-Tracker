@@ -61,7 +61,7 @@ a positive lifestyle.
 
 
 
-## Group Plans
+## Sprint 1
 
 ## What We Did
 Charlie- Created the backend for the habits including classes and interfaces. Also researched Java Swing and Calendar API's.
