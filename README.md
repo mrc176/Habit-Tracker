@@ -71,7 +71,7 @@ Charlie- Created the backend for the habits including classes and interfaces. Al
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-24">HTP-24</a> /
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-22">HTP-22</a>
 
-Temi- GUI for user login and initialization of main panel GUI upon successful login. Creation of SQL database on remote server. Connection between SQL and Java to utilize said database during runtime.
+Temi- GUI for user login and initialization of main panel GUI upon successful login. Creation of SQL database on remote server. Connection between SQL and Java to utilize said database during runtime.<br>
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/UI%20Research/Swing%20and%20JavaFX%20Research">HTP-45</a> /
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/UI%20Initialization/SystemLog.java">HTP-30</a> /
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/UI%20Initialization/GUI.java">HTP-30.2</a> /
@@ -92,10 +92,10 @@ Bridgett-
 Charlie- Charlie will be working with Martin on making sure the backend and habit UI work together properly and with Temi to work on a calendar.
 
 
-Temi- Finish building SQL database (space for habits to be added in by back-end, first and last name to refer to the user by, etc.)
-      Enable modifying SQL data during runtime (option to reset password so people aren't blocked with no recourse, availability of renaming habits through back-end, etc.)
-      Bug fix pass (current: trying to connect to a different database with more arguments causes an SQL error).
-      Code integration with rest of the team (making sure my front-end functions with remaining code).
+Temi- Finish building SQL database (space for habits to be added in by back-end, first and last name to refer to the user by, etc.)<br>
+      Enable modifying SQL data during runtime (option to reset password so people aren't blocked with no recourse, availability of renaming habits through back-end, etc.)<br>
+      Bug fix pass (current: trying to connect to a different database with more arguments causes an SQL error).<br>
+      Code integration with rest of the team (making sure my front-end functions with remaining code).<br>
 
 
 Martin-
