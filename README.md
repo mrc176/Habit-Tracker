@@ -65,17 +65,33 @@ a positive lifestyle.
 
 ## What We Did
 Charlie- Created the backend for the habits including classes and interfaces. Also researched Java Swing and Calendar API's.
+
+
 Temi-
+
+
 Martin-
+
+
 Caitlyn-
+
+
 Bridgett-
 
 ## Next Steps
 
 Charlie- Charlie will be working with Martin on making sure the backend and habit UI work together properly and with Temi to work on a calendar.
+
+
 Temi-
+
+
 Martin-
+
+
 Caitlyn-
+
+
 Bridgett-
 
 ## What Went Well
