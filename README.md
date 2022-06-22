@@ -86,6 +86,7 @@ Caitlyn-
 
 
 Bridgett- Draft for a User Profile screen and research for Java User Interfaces using Java Swing and Window Builder.
+
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-33">HTP-33</a> /
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-34">HTP-34</a> /
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-35">HTP-35</a> /
