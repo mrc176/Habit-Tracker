@@ -95,7 +95,7 @@ Charlie- Charlie will be working with Martin on making sure the backend and habi
 Temi- Finish building SQL database (space for habits to be added in by back-end, first and last name to refer to the user by, etc.)<br>
       Enable modifying SQL data during runtime (option to reset password so people aren't blocked with no recourse, availability of renaming habits through back-end, etc.)<br>
       Bug fix pass (current: trying to connect to a different database with more arguments causes an SQL error).<br>
-      Code integration with rest of the team (making sure my front-end functions with remaining code).<br>
+      Code integration with rest of the team (making sure front-end functions with remaining code, error checking, etc).<br>
 
 
 Martin-
