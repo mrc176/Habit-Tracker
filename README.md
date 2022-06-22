@@ -138,7 +138,7 @@ Bridgett- The team communicated what problems each member had and working togeth
 We missed the mark on some of our deadlines and would like to have done more in the first sprint.
 
 ## What Can I Do To Improve?
-Charlie- 
+Charlie- Generally, I would like to have done more coding. I did the backend for the habit class, but I could have helped more with the UI code as well.
 
 Temi- Me focusing and being more creative on the tools we are already using rather than pushing for tools we as a group are unfamiliar with (like SQL and the initial idea of JavaFX), which slows us down.<br>
       "How will your team and the instructor know you are doing it better?": If I don't pop up with any more different tool suggestions or ideas by the end of Sprint 2.
