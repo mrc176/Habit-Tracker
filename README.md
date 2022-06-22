@@ -94,7 +94,10 @@ Bridgett- Draft for a User Profile screen and research for Java User Interfaces 
 
 ## Next Steps
 
-Charlie- Charlie will be working with Martin on making sure the backend and habit UI work together properly and with Temi to work on a calendar.
+Charlie- Work with Martin on making sure the backend and habit UI work together properly. 
+         Work with Temi to work on a calendar.
+         Add JUnit Tests to Habit Classes.
+         Work on improving overall UI integration.
 
 
 Temi- Finish building SQL database (space for habits to be added in by back-end, first and last name to refer to the user by, etc.)<br>
