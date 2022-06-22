@@ -82,8 +82,8 @@ Temi- GUI for user login and initialization of main panel GUI upon successful lo
 Martin-
 
 
-Caitlyn- Created app Icon, laid out some skeleton code. 
-<a href= https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary </a> /
+Caitlyn-  
+<a href= https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary>Created app Icon, laid out some skeleton code.
 
 Bridgett- Draft for a User Profile screen and research for Java User Interfaces using Java Swing and Window Builder.
 
