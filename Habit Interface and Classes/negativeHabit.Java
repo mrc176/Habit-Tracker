@@ -5,10 +5,12 @@ public class NegativeHabit implements Habit {
     int numFailures;
     String name;
     int remindersPerDay;
+    int numSuccesses;
     
     public NegativeHabit()
     {
         numFailures = 0;
+        numSuccesses = 0;
     }
 
     @Override
@@ -19,6 +21,24 @@ public class NegativeHabit implements Habit {
     @Override
     public void setName(String habName) {
         this.name = habName;
+    }
+    
+    @Override
+    public String getName()
+    {
+        return name;
+    }
+    
+    @Override
+    public int getNumFailures()
+    {
+        return numFailures;
+    }
+    
+    
+    public int getNumSuccesses()
+    {
+        return numSuccesses;
     }
 
     @Override
@@ -40,6 +60,11 @@ public class NegativeHabit implements Habit {
     @Override
     public String endHabit() {
         return "This habit has been tracked!";
+    }
+
+    @Override
+    public void incrementSuccesses() {
+        ++numSuccesses;
     }
     
     

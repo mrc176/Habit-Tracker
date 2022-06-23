@@ -5,6 +5,7 @@ public class positiveHabit implements Habit{
     int remindersPerDay = 0;
     int dayCount = 0;
     int numFailures = 0;
+    int numSuccesses = 0;
     
     public positiveHabit(String habName, int numReminders, int numDays)
     {
@@ -17,6 +18,18 @@ public class positiveHabit implements Habit{
     @Override
     public void incrementFailures() {
         ++numFailures;
+    }
+    
+    @Override
+    public void incrementSuccesses()
+    {
+        ++numSuccesses;
+    }
+    
+    @Override
+    public int getNumFailures()
+    {
+        return numFailures;
     }
 
     @Override
@@ -35,6 +48,12 @@ public class positiveHabit implements Habit{
     }
     
     @Override
+    public String getName()
+    {
+        return name;
+    }
+    
+    @Override
     public int getReminders()
     {
         return remindersPerDay;
@@ -43,6 +62,11 @@ public class positiveHabit implements Habit{
     @Override
     public String endHabit() {
         return "This habit has been tracked!";
+    }
+
+    @Override
+    public int getNumSuccesses() {
+        return numSuccesses;
     }
 
     
