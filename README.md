@@ -56,6 +56,7 @@ a positive lifestyle.
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 ## App Icon 
+
 ![](https://imgur.com/a/x2a8eEN){height=50 width=60}
 <span style="font-size:5px;"/span></p>
 
