@@ -79,7 +79,8 @@ Temi- GUI for user login and initialization of main panel GUI upon successful lo
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/UI%20Initialization/SystemLog.java%20(Local%20Server%20Vers.)">HTP-32</a>
 
 
-Martin-
+Martin- Modified GUI.java to open other windows for profile and habit interaction.
+<a href= "https://cs3398su22edosians.atlassian.net/jira/software/projects/HTP/boards/4/backlog?selectedIssue=HTP-47">HTP-47</a>
 
 
 Caitlyn-  
@@ -106,7 +107,7 @@ Temi- Finish building SQL database (space for habits to be added in by back-end,
       Code integration with rest of the team (making sure front-end functions with remaining code, error checking, etc).<br>
 
 
-Martin-
+Martin- Have a working and Interactive UI. Implement a better work ethic. <br> 
 
 
 Caitlyn- Flesh out some skeleton code established during sprint 1. Elaborate on UI integration as well as some bug fixes. 
@@ -126,7 +127,7 @@ was very consistent.
 
 Temi- Nobody's attitudes clashed with the overall group.
 
-Martin- 
+Martin- Communication was open, questions were welcomed.
 
 Caitlyn- Really great team, everyone was very good at communicating and spreading out the work. Everyone was super receptive to everyone elses ideas as well. 
 
@@ -144,7 +145,7 @@ on more code involving UI's and on more code in general.
 Temi- Me focusing and being more creative on the tools we are already using rather than pushing for tools we as a group are unfamiliar with (like SQL and the initial idea of JavaFX), which slows us down.<br>
       "How will your team and the instructor know you are doing it better?": If I don't pop up with any more different tool suggestions or ideas by the end of Sprint 2.
 
-Martin- 
+Martin- Litterally anything. Asking for more help. Studying. Being productive
 
 Caitlyn- Better time managment for me, organizing my time better and spreading out my work. I woud like to contribute more this time around to the overall project.
 
