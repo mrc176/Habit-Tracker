@@ -1,6 +1,6 @@
 //Author: Charlie Cox
 package HabitUI;
-public class NegativeHabit implements Habit {
+public class negativeHabit implements Habit {
     
     int numFailures;
     String name;
