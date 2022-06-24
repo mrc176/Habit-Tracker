@@ -1,5 +1,5 @@
 //Author Charlie Cox
-
+package HabitUI
 public interface Habit 
 {
     
