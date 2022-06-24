@@ -1,5 +1,5 @@
 //Author: Charlie Cox
-
+package habitUI
 public class NegativeHabit implements Habit {
     
     int numFailures;
