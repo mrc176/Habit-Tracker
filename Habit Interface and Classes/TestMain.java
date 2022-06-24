@@ -1,4 +1,4 @@
-package HabitUI
+package HabitUI;
 public class TestMain {
     
     public static void main(String args[])
