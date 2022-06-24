@@ -7,7 +7,7 @@ public class negativeHabit implements Habit {
     int remindersPerDay;
     int numSuccesses;
     
-    public NegativeHabit()
+    public negativeHabit()
     {
         numFailures = 0;
         numSuccesses = 0;
