@@ -1,4 +1,4 @@
-package HabitUI;
+
 import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -90,6 +90,8 @@ public class HabitUI{
            public void actionPerformed(ActionEvent e)
            {
                list.append("Changes Saved \n");
+               endOfLifeUI summaryUI = new endOfLifeUI(passedHabit);   
+               frame.dispose();
            }
        });
        
@@ -106,7 +108,7 @@ public class HabitUI{
        panel.add(guyLabel);
        
        frame.add(panel);
-       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+       frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
        frame.setVisible(true);
     }
 
