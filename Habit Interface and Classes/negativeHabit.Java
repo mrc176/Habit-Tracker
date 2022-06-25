@@ -1,16 +1,28 @@
 //Author: Charlie Cox
-package HabitUI;
-public class negativeHabit implements Habit {
+
+public class NegativeHabit implements Habit {
     
     int numFailures;
     String name;
     int remindersPerDay;
     int numSuccesses;
+    int failureGoal;
     
-    public negativeHabit()
+    public NegativeHabit(String name, int failGoal)
     {
         numFailures = 0;
         numSuccesses = 0;
+        failureGoal = failGoal;
+    }
+    
+    public void setFailureGoal(int failsAllowed)
+    {
+        failureGoal = failsAllowed;
+    }
+    
+    public int getFailureGoal()
+    {
+        return failureGoal;
     }
 
     @Override

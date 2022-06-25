@@ -1,4 +1,4 @@
-package HabitUI;
+
 public class positiveHabit implements Habit{
     
     String name;
@@ -6,13 +6,24 @@ public class positiveHabit implements Habit{
     int dayCount = 0;
     int numFailures = 0;
     int numSuccesses = 0;
+    int failureGoal;
     
-    public positiveHabit(String habName, int numReminders, int numDays)
+    public positiveHabit(String habName, int numReminders, int allowedFailures)
     {
         setName(habName); 
         int remindersPerDay = numReminders;
-        int dayCount = numDays;
+        int failureGoal = allowedFailures;
         int numFailures = 0;
+    }
+    
+    public void setFailureGoal(int failsAllowed)
+    {
+        failureGoal = failsAllowed;
+    }
+    
+    public int getFailureGoal()
+    {
+        return failureGoal;
     }
 
     @Override
