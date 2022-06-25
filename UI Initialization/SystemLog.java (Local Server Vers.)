@@ -1,5 +1,5 @@
 //This is the code for initializing the main user UI upon a successful log-in.
-//This code represents a version with a fully functioning version with local SQL
+//This code represents a version with a  functioning version with local SQL
 //server and database but requires appropriate user-side SQL tools to use.
 
 package systemLogin;
@@ -33,9 +33,6 @@ public class SystemLog {
 	private JTextField txtUsername;
 	private JPasswordField txtPassword;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -49,16 +46,10 @@ public class SystemLog {
 		});
 	}
 
-	/**
-	 * Create the application.
-	 */
 	public SystemLog() {
 		initialize();
 	}
 
-	/**
-	 * Initialize the contents of the frame.
-	 */
 	private void initialize() {
 		frmLoginPanel = new JFrame();
 		frmLoginPanel.getContentPane().setBackground(SystemColor.activeCaption);
@@ -95,21 +86,22 @@ public class SystemLog {
 			public void actionPerformed(ActionEvent e) {
 				// The code below has been deprecated.
 				//String password = txtPassword.getText();
-				//mydb is database name
+				//user_database is database name
 				//root is username of mysql
 				//cs3398 is password of sql
 				String username = txtUsername.getText();
 				String password = new String(txtPassword.getPassword());
 				
 				try {
-					Connection connection = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/swing_demo", "root", "cs3398");
-					PreparedStatement st = (PreparedStatement) connection.prepareStatement("Select name, password from student where name=? and password=?");
+					Connection connection = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/user_database", "root", "cs3398");
+					PreparedStatement st = (PreparedStatement) connection.prepareStatement("Select name, password from user_list where name=? and password=?");
 					st.setString(1,  username);
 					st.setString(2,  password);
 					ResultSet rs = st.executeQuery();
 					if (rs.next()) {
 						//dispose();
 						JOptionPane.showMessageDialog(btnLogin, "Login successful.");
+						//'null' replaced with new parameters when initializing final build window.
 						GUI.main(null);
 					}
 					else {

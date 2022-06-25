@@ -1,0 +1,18 @@
+//'user_database' is the database
+//'root' is the mysql name
+//'cs3398' to access
+
+create database user_database;
+
+CREATE TABLE user_list
+( id int NOT NULL,
+  name varchar(250) NOT NULL,
+  password varchar(250),
+  first_name varchar(50) NOT NULL,
+  habit1 varchar(250),
+  habit2 varchar(250),
+  habit3 varchar(250)
+);
+
+INSERT INTO user_list (id, name, password, first_name, habit1, habit2, habit3)
+VALUES (1, 'testuser', 'testpass', 'John', 'null', 'null', 'null');
