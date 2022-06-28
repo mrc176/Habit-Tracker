@@ -2,6 +2,10 @@
 import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -17,6 +21,7 @@ public class HabitUI{
     JButton addFail;
     JButton addSuccess;
     JButton saveChanges;
+    JButton killHabit;
     JPanel panel;
     Habit habit;
     JTextField successField;
@@ -28,7 +33,7 @@ public class HabitUI{
     ImageIcon guyFieri;
     JLabel guyLabel;
     
-    public HabitUI(Habit passedHabit)
+    public HabitUI(Habit passedHabit) throws MalformedURLException
     {
        //initializing variables.
        this.habit = passedHabit;
@@ -40,29 +45,32 @@ public class HabitUI{
        panel.setBackground(Color.lightGray);
        addFail = new JButton("Add a Failure");
        addSuccess = new JButton("Add a Success");
-       saveChanges = new JButton("Save Changes");
+       saveChanges = new JButton("End Habit");
+       killHabit = new JButton("End Habit");
        list = new JTextArea();
        successField = new JTextField();
        failureField = new JTextField();
        successNumber = new JLabel("Number of Successes: ");
        failureNumber = new JLabel("Number of Failures: ");
-       guyFieri = new ImageIcon("myGuy.jpg");
+       URL imageURL = new URL("https://i.imgur.com/Sxy2STc.png");
+       guyFieri = new ImageIcon(imageURL);
        guyLabel = new JLabel(guyFieri);
        history = new JLabel("History: ");
        
        //setting bounds on things.
        successField.setColumns(10);
        failureField.setColumns(10);
-       successField.setBounds(360, 200, 200, 50);
+       successField.setBounds(360, 110, 200, 50);
        failureField.setBounds(360, 50, 200, 50);
        addFail.setBounds(60, 50, 200, 50);
-       addSuccess.setBounds(60,200,200,50);
+       addSuccess.setBounds(60,110,200,50);
        saveChanges.setBounds(380, 290, 150, 50);
+       killHabit.setBounds(60, 170, 150, 50);
        list.setBounds(60, 350, 500, 200);
        successNumber.setBounds(380, 155, 150, 50);
        failureNumber.setBounds(380, 0, 150, 50);
        history.setBounds(75, 300, 150, 50);
-       guyLabel.setBounds(-200, 0, 900, 1200);
+       guyLabel.setBounds(-120, -250, 900, 1200);
        
        //setting up working buttons
        addFail.addActionListener(new ActionListener()
@@ -85,12 +93,17 @@ public class HabitUI{
                successField.setText(numFailures + passedHabit.getNumSuccesses()); 
            }
        });
+       
        saveChanges.addActionListener(new ActionListener()
        {
            public void actionPerformed(ActionEvent e)
            {
                list.append("Changes Saved \n");
-               endOfLifeUI summaryUI = new endOfLifeUI(passedHabit);   
+               try {   
+                   endOfLifeUI summaryUI = new endOfLifeUI(passedHabit);
+               } catch (MalformedURLException ex) {
+                   Logger.getLogger(HabitUI.class.getName()).log(Level.SEVERE, null, ex);
+               }
                frame.dispose();
            }
        });
@@ -106,6 +119,7 @@ public class HabitUI{
        panel.add(history);
        panel.add(saveChanges);
        panel.add(guyLabel);
+       //panel.add(killHabit);
        
        frame.add(panel);
        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
