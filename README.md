@@ -155,9 +155,9 @@ Bridgett- Dedicating time to work on assignments and communicate better with the
 
 ## What We Did
 Charlie- Created the GUI for the Habit Class, the Create Habit GUI, and the habit End of Life GUI.<br>
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-55">HTP-55</a> /
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-61">HTP-61</a> /
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-67">HTP-67</a>
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/commits/3c325b688527af9b68ec5bf3b83db51eb5e97a5b">HTP-55</a> /
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/commits/f77d70feb90bc57f17f830036b9c4ba34cc1df69">HTP-61</a> /
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/commits/793eabc64dd9469514399779dd9f196a99e789c0">HTP-57</a>
 
 
 ## Next Steps <br>
