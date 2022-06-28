@@ -157,7 +157,7 @@ Bridgett- Dedicating time to work on assignments and communicate better with the
 Charlie- Created the GUI for the Habit Class, the Create Habit GUI, and the habit End of Life GUI.<br>
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-55">HTP-55</a> /
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-61">HTP-61</a> /
-<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-67">HTP-67</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-67">HTP-67</a>
 
 
 ## Next Steps <br>
@@ -165,7 +165,10 @@ Charlie - I'd love to clean up the GUI's and integrate everything into one proje
 
 
 ## What Went Well<br>
-Team- We ended up overcoming a lot of adversity and having a close to finished project.<br>
+Team- We ended up overcoming a lot of adversity and have a close to finished project.<br>
+The group was supportive of one another despite a lot of issues. <br>
+Communication was consistent between group members throughout the project.<br>
+Morale was generally high throughout the sprint.<br>
 
 Charlie- Did a good job of trying to keep everyone as involved as possible and I had a lot of fun working on GUI's.<br>
 
