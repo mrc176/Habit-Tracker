@@ -172,9 +172,9 @@ Morale was generally high throughout the sprint.<br>
 
 Charlie- Did a good job of trying to keep everyone as involved as possible and I had a lot of fun working on GUI's.<br>
 
-## What Could Be Improved<br>
-Team- We still missed a lot of deadlines.<br>
-
+## What Might Be Impeding Us From Doing Better?<br>
+1.We still missed a lot of deadlines.<br>
+2.It seems like a lot of personal issues got in the way of getting tasks completed.<br>
 
 ## What Can I Do To Improve?<br>
 Charlie- I would like to have the GUI's implemented completely and integrated with the whole project. You will know I have done this
