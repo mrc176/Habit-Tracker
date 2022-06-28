@@ -1,16 +1,31 @@
 // Author: Caitlyn Barrow
-// Skeleton of an end of file summary class, should eventually be replaced
-// with a more fleshed out code/alg.
+
 public class endOfFile {
 
-public String printNumDaysAbstained {
-//print days abstained -> from negative habit
-}
+    int numFailures;
+    int numSuccesses;
+    int failAndSucc;
+    double succDecimal;
+    int successPercentage;
 
-public String printNumSuccesses {
-//print number of successes -> from positive habit
-}
+    public int getNumFailures() {
+        return numFailures;
+    }
+    public void setNumFailures(int numFail) {
+        numFailures = numFail;
+    }
 
-public String printNumDays {
-//print num days total -> from where?
+    public int getNumSuccesses() {
+        return numSuccesses;
+    }
+    public void setNumSuccesses(int numSucc) {
+        numSuccesses = numSucc;
+    }
+
+    public int averagePercent(int numFailures int numSuccesses) {
+        numFailures + numSuccesses = failAndSucc;
+        numSuccesses / failAndSucc = succDecimal;
+        succDecimal * 100 = successPercentage;
+        return successPercentage;
+    }
 }
