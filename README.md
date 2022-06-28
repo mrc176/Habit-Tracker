@@ -39,13 +39,13 @@ a positive lifestyle.
 
 ## Technologies Used
 
-<a href= "https://developers.google.com/calendar/api">Google Calendar API</a>: Using calendar feature to help remind the user about their habit.
+<a href= "https://docs.oracle.com/javase/tutorial/uiswing/">Java Swing</a>: Used for created GUI's.
 
 
 ## Features
 
-> ### Calendar 
- - Marks and tracks days the user engaged unfavorable or healthy habit. (User Story: Bridgett Tijerina)
+> ### Success vs Failure Tracking
+ - Allows users to track their successes and failures and gives them data when the habit ends.
 
 > ### Customizable habits
  - Fit with a description and goal. (User Story: Caitlyn Barrow)
