@@ -39,13 +39,13 @@ a positive lifestyle.
 
 ## Technologies Used
 
-<a href= "https://developers.google.com/calendar/api">Google Calendar API</a>: Using calendar feature to help remind the user about their habit.
+<a href= "https://docs.oracle.com/javase/tutorial/uiswing/">Java Swing</a>: Used for created GUI's.
 
 
 ## Features
 
-> ### Calendar 
- - Marks and tracks days the user engaged unfavorable or healthy habit. (User Story: Bridgett Tijerina)
+> ### Success vs Failure Tracking
+ - Allows users to track their successes and failures and gives them data when the habit ends.
 
 > ### Customizable habits
  - Fit with a description and goal. (User Story: Caitlyn Barrow)
@@ -150,6 +150,40 @@ Martin- Litterally anything. Asking for more help. Studying. Being productive
 Caitlyn- Better time managment for me, organizing my time better and spreading out my work. I woud like to contribute more this time around to the overall project.
 
 Bridgett- Dedicating time to work on assignments and communicate better with the team.
+
+## Sprint 2
+
+## What We Did
+Charlie- Created the GUI for the Habit Class, the Create Habit GUI, and the habit End of Life GUI.<br>
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/commits/3c325b688527af9b68ec5bf3b83db51eb5e97a5b">HTP-55</a> /
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/commits/f77d70feb90bc57f17f830036b9c4ba34cc1df69">HTP-61</a> /
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/commits/793eabc64dd9469514399779dd9f196a99e789c0">HTP-57</a>
+
+
+## Next Steps <br>
+Charlie - I'd love to clean up the GUI's and integrate everything into one project. <br>
+
+
+## What Went Well<br>
+Team- We ended up overcoming a lot of adversity and have a close to finished project.<br>
+The group was supportive of one another despite a lot of issues. <br>
+Communication was consistent between group members throughout the project.<br>
+Morale was generally high throughout the sprint.<br>
+
+Charlie- Did a good job of trying to keep everyone as involved as possible and I had a lot of fun working on GUI's.<br>
+
+## What Might Be Impeding Us From Doing Better?<br>
+1.We still missed a lot of deadlines.<br>
+2.It seems like a lot of personal issues got in the way of getting tasks completed.<br>
+
+## What Can I Do To Improve?<br>
+Charlie- I would like to have the GUI's implemented completely and integrated with the whole project. You will know I have done this
+because there will be no buttons that don't work, and the project will be one program.
+
+
+
+
+
 
 <!--
 ## Setup
