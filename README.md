@@ -151,6 +151,37 @@ Caitlyn- Better time managment for me, organizing my time better and spreading o
 
 Bridgett- Dedicating time to work on assignments and communicate better with the team.
 
+## Sprint 2
+
+## What We Did
+Charlie- Created the GUI for the Habit Class, the Create Habit GUI, and the habit End of Life GUI.<br>
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-55">HTP-55</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-61">HTP-61</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-67">HTP-67</a> /
+
+
+## Next Steps <br>
+Charlie - I'd love to clean up the GUI's and integrate everything into one project. <br>
+
+
+## What Went Well<br>
+Team- We ended up overcoming a lot of adversity and having a close to finished project.<br>
+
+Charlie- Did a good job of trying to keep everyone as involved as possible and I had a lot of fun working on GUI's.<br>
+
+## What Could Be Improved<br>
+Team- We still missed a lot of deadlines.<br>
+
+
+## What Can I Do To Improve?<br>
+Charlie- I would like to have the GUI's implemented completely and integrated with the whole project. You will know I have done this
+because there will be no buttons that don't work, and the project will be one program.
+
+
+
+
+
+
 <!--
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
