@@ -165,7 +165,7 @@ Bridgett - Present a useable User UI for the main program.
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-60">HTP-60</a>/
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-62">HTP-62</a>
 
-Temi - Rebuilt the server with proper database arguments and integrated it into main code. Created a post-login user UI page for database values to run through. Integrated code to enable modifying SQL user data during runtime.
+Temi - Rebuilt the server with proper database arguments and integrated it into main code. Created a post-login user UI page for database values to run through. Integrated code to enable modifying SQL user data during runtime.<br>
 <a href= "https://bitbucket.org/%7B%7D/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/pull-requests/31">HTP-51</a> /
 <a href= "https://bitbucket.org/%7B%7D/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/pull-requests/32">HTP-52</a> /
 <a href= "https://bitbucket.org/%7B%7D/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/pull-requests/33">HTP-53</a>
