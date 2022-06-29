@@ -154,14 +154,21 @@ Bridgett- Dedicating time to work on assignments and communicate better with the
 ## Sprint 2
 
 ## What We Did
-Charlie- Created the GUI for the Habit Class, the Create Habit GUI, and the habit End of Life GUI.<br>
+Charlie - Created the GUI for the Habit Class, the Create Habit GUI, and the habit End of Life GUI.<br>
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/commits/3c325b688527af9b68ec5bf3b83db51eb5e97a5b">HTP-55</a> /
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/commits/f77d70feb90bc57f17f830036b9c4ba34cc1df69">HTP-61</a> /
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/commits/793eabc64dd9469514399779dd9f196a99e789c0">HTP-57</a>
 
+Bridgett - Present a useable User UI for the main program.
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-58">HTP-58</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-59">HTP-59</a> /
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-60">HTP-60</a>/
+<a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-62">HTP-62</a>
 
 ## Next Steps <br>
 Charlie - I'd love to clean up the GUI's and integrate everything into one project. <br>
+
+Bridgett - Create a modern looking User Interface. <br>
 
 
 ## What Went Well<br>
@@ -170,18 +177,20 @@ The group was supportive of one another despite a lot of issues. <br>
 Communication was consistent between group members throughout the project.<br>
 Morale was generally high throughout the sprint.<br>
 
-Charlie- Did a good job of trying to keep everyone as involved as possible and I had a lot of fun working on GUI's.<br>
+Charlie - Did a good job of trying to keep everyone as involved as possible and I had a lot of fun working on GUI's.<br>
+
+Bridgett - We were able to create working code that is presentable.<br>
 
 ## What Might Be Impeding Us From Doing Better?<br>
 1.We still missed a lot of deadlines.<br>
 2.It seems like a lot of personal issues got in the way of getting tasks completed.<br>
+3.Lack of proper communication of blocks.<br>
 
 ## What Can I Do To Improve?<br>
-Charlie- I would like to have the GUI's implemented completely and integrated with the whole project. You will know I have done this
-because there will be no buttons that don't work, and the project will be one program.
+Charlie - I would like to have the GUI's implemented completely and integrated with the whole project. You will know I have done this
+because there will be no buttons that don't work, and the project will be one program.<br>
 
-
-
+Bridgett - Done more research and put more effort into my tasks, as well as set mini goals to create a more detailed and colorful UI.<br>
 
 
 
