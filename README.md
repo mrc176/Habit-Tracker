@@ -167,7 +167,7 @@ Bridgett - Present a useable User UI for the main program.
 
 Caitlyn - Create and expand on End of File summary class
 <a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary">HTP-39</a> /
-<a hrf= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary">HTP-38</a> /
+<a hrf= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary">HTP-38</a> 
 
 Temi - Rebuilt the server with proper database arguments and integrated it into main code. Created a post-login user UI page for database values to run through. Integrated code to enable modifying SQL user data during runtime.<br>
 <a href= "https://bitbucket.org/%7B%7D/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/pull-requests/31">HTP-51</a> /
