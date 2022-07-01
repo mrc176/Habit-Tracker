@@ -165,6 +165,10 @@ Bridgett - Present a useable User UI for the main program.
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-60">HTP-60</a>/
 <a href= "https://cs3398su22edosians.atlassian.net/browse/HTP-62">HTP-62</a>
 
+Caitlyn - Create and expand on End of File summary class
+<a href= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary">HTP-39</a> /
+<a hrf= "https://bitbucket.org/cs-3398-su22-edosians/habit-tracker-repository/src/master/Habit%20Interface%20and%20Classes/End%20of%20File%20Summary">HTP-38</a> /
+
 Temi - Rebuilt the server with proper database arguments and integrated it into main code. Created a post-login user UI page for database values to run through. Integrated code to enable modifying SQL user data during runtime.<br>
 <a href= "https://bitbucket.org/%7B%7D/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/pull-requests/31">HTP-51</a> /
 <a href= "https://bitbucket.org/%7B%7D/%7Bd04c43f8-c6a7-4434-b9b7-840abdbfc5b3%7D/pull-requests/32">HTP-52</a> /
@@ -174,6 +178,8 @@ Temi - Rebuilt the server with proper database arguments and integrated it into 
 Charlie - I'd love to clean up the GUI's and integrate everything into one project. <br>
 
 Bridgett - Create a modern looking User Interface. <br>
+
+Caitlyn - I would like to begin helping out with the GUI, specifically updating the graphics. <br>
 
 Temi - Finish making the front-end and server database of the project fully function with the remaining portion of it without any errors.<br>
 
@@ -187,6 +193,8 @@ Charlie - Did a good job of trying to keep everyone as involved as possible and 
 
 Bridgett - We were able to create working code that is presentable.<br>
 
+Caitlyn - The group was really supportive of eachother and unerstanding of eachother's personal life outside of school. <br>
+
 Temi - Despite all issues, we were still able to present two funcitoning halves of the project that were built from scratch.<br>
 
 ## What Might Be Impeding Us From Doing Better?<br>
@@ -199,6 +207,9 @@ Charlie - I would like to have the GUI's implemented completely and integrated w
 because there will be no buttons that don't work, and the project will be one program.<br>
 
 Bridgett - Done more research and put more effort into my tasks, as well as set mini goals to create a more detailed and colorful UI.<br>
+
+Caitlyn - Put more time into the project as a whole. Be more involved with the team and what they are doing in order to get assigned more work
+and be trusted to finish that work at an adewuate time. <br>
 
 Temi - I can be more creative in circumventing or overcoming the blocks and issues that rose up during our development process.<br>
 
